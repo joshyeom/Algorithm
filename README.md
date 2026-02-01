@@ -7,6 +7,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/joshyeom/Algorithm/tree/master/0014-longest-common-prefix) |
+| [1470-shuffle-the-array](https://github.com/joshyeom/Algorithm/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/joshyeom/Algorithm/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
