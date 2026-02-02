@@ -9,7 +9,5 @@ var findErrorNums = function(nums) {
         arr[nums[i] - 1] += 1
     }
 
-    console.log(arr);
-
     return [arr.findIndex((v) => v === 2) + 1, arr.findIndex((v) => v === 0) + 1]
 };
