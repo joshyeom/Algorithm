@@ -19,6 +19,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/joshyeom/Algorithm/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/joshyeom/Algorithm/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -50,6 +51,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joshyeom/Algorithm/tree/master/0020-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/joshyeom/Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
 |  |
